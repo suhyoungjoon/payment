@@ -1,0 +1,10 @@
+local\config\kafka\KafkaProcessor.class
+local\PolicyHandler.class
+local\Canceled.class
+local\Paidcanceled.class
+local\AbstractEvent.class
+local\PaymentSystem.class
+local\PaymentSystemRepository.class
+local\Application.class
+local\Paid.class
+local\PaymentSystemController.class
